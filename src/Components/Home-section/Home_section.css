@@ -1,0 +1,19 @@
+.HomeSection{
+    background-color: #EDEEF1;
+    width: 172vh;
+}
+
+.keter:hover{
+    cursor: pointer;
+}
+
+#Browse{
+    display: flex; 
+    text-align: start;
+    align-items: center; 
+    color: #2D54C6; 
+    cursor: pointer
+}
+#Browse:hover{
+    text-decoration: underline;
+}
